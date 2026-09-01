@@ -1,7 +1,7 @@
 /**
  * Recebe um array de números e conta quantos números inteiros existem
  * entre o primeiro e o último elemento do array de entrada.
- * 
+ *
  * @param {number[]} arr
  * @returns {{ contagemIntervalo: number, contagemElementosArray: number }}
  */
@@ -40,3 +40,5 @@ console.log("Array 2:", testeArray2);
 console.log("Resultado 2:", contarInteirosEntrePrimeiroEUltimo(testeArray2));
 
 module.exports = { contarInteirosEntrePrimeiroEUltimo };
+
+// Teste de sincronização com o GitHub2
