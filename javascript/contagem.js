@@ -41,4 +41,4 @@ console.log("Resultado 2:", contarInteirosEntrePrimeiroEUltimo(testeArray2));
 
 module.exports = { contarInteirosEntrePrimeiroEUltimo };
 
-// Teste de sincronização com o GitHub2
+// Teste de sincronização com o GitHub3
